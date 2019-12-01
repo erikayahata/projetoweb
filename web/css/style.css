@@ -1,0 +1,24 @@
+.btn{
+    background: #c1e2b3;
+}
+#creditos{
+    font-size: 5px;
+}
+#h4error{
+    color: #c4e3f3;
+}
+img.resize{
+    height: 80px;
+    width: 80px;
+}
+
+img.carousel{
+    height: 50px;
+    width: 50px;
+}
+
+.container {
+  position: relative;
+  width: 100%;
+}
+
